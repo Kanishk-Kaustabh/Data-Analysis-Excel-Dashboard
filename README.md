@@ -5,17 +5,27 @@ To work with tools like Excel, SQL, Tableau, and Power BI to support data-driven
 To grow as a Business Analyst by contributing to impactful projects and continuous learning.”
 
 ## Questions (KPIs)
-- Which year recorded the highest total sales?
--Which month had the maximum sales?
-- Which region contributed the most to total sales?
--Which country had the highest number of orders?
--Which region shows declining sales?
--Which region or country has the highest average order value?
-- Who are the top 10 customers by revenue?
--Which product is purchased the most?
--What is the overall customer growth trend?
--What is the total revenue compared to the previous year?
 
-Dashboard Interaction <a href="">View Dashboard</a>
+Which year recorded the highest total sales?
+
+Which month had the maximum sales?
+
+Which region contributed the most to total sales?
+
+Which country had the highest number of orders?
+
+Which region shows declining sales?
+
+Which region or country has the highest average order value?
+
+Who are the top 10 customers by revenue?
+
+Which product is purchased the most?
+
+What is the overall customer growth trend?
+
+What is the total revenue compared to the previous year?
+
+Dashboard Interaction <a href="https://github.com/Kanishk-Kaustabh/Data-Analysis-Excel-Dashboard/blob/main/excel_Dashboard.png">View Dashboard</a>
 
 
